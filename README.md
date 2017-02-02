@@ -1,0 +1,2 @@
+# Inverted-Pendulum-and-Computer-Vision
+As a project of IA I develop a hardware and software of to stabilize an inverted pendulum in real-time. The HW consisted in a webcam, a stroboscopic light, an DC motor with its H-bridge, a signal conditioning to be connected to a PC, and an inverted pendulum . The SW consisted in a fuzzy logic controller, an artificial vision system that measures the state of the pendulum.
